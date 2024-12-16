@@ -67,7 +67,7 @@ Manual workflows in software development slow down feature delivery, consume sig
 Clone the repository:
 
 ```bash
-git clone [<repository_url>](https://github.com/syedzubeen/C0D3RZ.AI.git)
+git clone https://github.com/syedzubeen/C0D3RZ.AI.git
 cd src
 ```
 
